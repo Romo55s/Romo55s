@@ -24,7 +24,7 @@
       <a href="mailto:jimenez.romo.jose.antonio@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Tony Romo" height="30">
       </a>
-      <a href="www.linkedin.com/in/tony55s" target="_blank">
+      <a href="https://www.linkedin.com/in/tony55s/" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tony Romo" height="30">
       </a>
       <a href="https://instagram.com/tony_jimenez_romo" target="_blank">
