@@ -5,12 +5,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--   <title>Azzar - Freelance Developer</title> -->
-  <style>
-    a {
-      text-decoration: none;
-      color: inherit;
-    }
-  </style>
 </head>
 
 <body>
