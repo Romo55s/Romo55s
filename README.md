@@ -12,7 +12,7 @@
   <div align="center">
     <span>
       <h1 align="center">Hello, I'm Tony Romo</h1>
-      <h3 align="center">A passionate Student in Computer Systems Engineering from Mexico</h3>
+      <h3 align="center">A passionate Computer Systems Engineering from Mexico</h3>
     </span>
   </div>
   <hr>
