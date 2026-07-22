@@ -2,14 +2,14 @@
 
 <h3><code>tony@github ~ $ ./profile.sh</code></h3>
 
-<img src="./dark_mode.svg" width="960" alt="Animated ASCII GitHub profile card for Tony Romo" />
+<img src="./assets/dark_mode.svg" width="960" alt="Animated ASCII GitHub profile card for Tony Romo" />
 
 <br>
 <br>
 
 <h3><code>tony@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Tony Romo's GitHub contribution graph, auto-refreshed daily" />
+<img src="./assets/contrib-heatmap.svg" width="860" alt="Tony Romo's GitHub contribution graph, auto-refreshed daily" />
 
 <br>
 <br>
